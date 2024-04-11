@@ -409,6 +409,7 @@ nano /home/sol/bin/validator.sh
 Copy and paste the following contents into `validator.sh` then save the file:
 
 ```
+#!/bin/bash
 exec agave-validator \
     --identity validator-keypair.json \
     --vote-account vote-account-keypair.json \
