@@ -101,6 +101,8 @@ solana-keygen new -o authorized-withdrawer-keypair.json
 > runs on. For more information, see
 > [validator security best practices](./best-practices/security.md#do-not-store-your-withdrawer-key-on-your-validator)
 
+For more information see [Vote Account Management](./guides/vote-accounts.md)
+
 ## Create a Vote Account
 
 Before you can create your vote account, you need to configure the Solana
